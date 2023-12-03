@@ -16,6 +16,25 @@ Autosplitter for the 10,000pts category of Pac-Man for NES
 | FCEUX64 | 2.6.5 |
 | qFCEUX | 2.6.5 |
 
+# LiveSplit.Popeye no Eigo Asobi.asl
+
+Autosplitter for Popeye no Eigo Asobi for Famicom
+
+| Inq | Value |
+| --- | --- |
+| # of splits in layout | 10 |
+| Start Frame | The frame a category is selected |
+| End Frame | The frame the tenth round is completed |
+
+| Emu | Compatible Versions |
+| --- | --- |
+| MesenRTA | 0.0.4 thru 0.0.6 |
+| NEStopia | None |
+| FCEUX | 2.2.3, 2.3.0, 2.4.0, 2.5.0, 2.6.1 thru 2.6.5 |
+| FCEUX64 | 2.6.5 |
+| qFCEUX | 2.6.1 thru 2.6.5 |
+
+
 # LiveSplit.Popeye.asl
 
 Autosplitter for multiple categories of Popeye for Famicom/NES
@@ -24,7 +43,7 @@ Autosplitter for multiple categories of Popeye for Famicom/NES
 | --- | --- |
 | # of splits in layout | 3 or 6 |
 | Start Frame | The frame Popeye is controllable |
-| End Frame | The frame the last letter of the last stage is grabbed |
+| End Frame | The frame the last round is completed |
 
 | Emu | Compatible Versions |
 | --- | --- |
