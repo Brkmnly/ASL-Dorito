@@ -1,6 +1,6 @@
 # LiveSplit.Pac-Man.asl
 
-Autosplitter for the 10,000pts category of Pac-Man for NES
+Autosplitter for the 10,000pts category of ```Pac-Man``` for NES
 
 | Inq | Value |
 | --- | --- |
@@ -18,7 +18,7 @@ Autosplitter for the 10,000pts category of Pac-Man for NES
 
 # LiveSplit.Popeye no Eigo Asobi.asl
 
-Autosplitter for Popeye no Eigo Asobi for Famicom
+Autosplitter for ```Popeye no Eigo Asobi``` for Famicom
 
 | Inq | Value |
 | --- | --- |
@@ -37,7 +37,7 @@ Autosplitter for Popeye no Eigo Asobi for Famicom
 
 # LiveSplit.Popeye.asl
 
-Autosplitter for multiple categories of Popeye for Famicom/NES
+Autosplitter for multiple categories of ```Popeye``` for Famicom/NES
 
 | Inq | Value |
 | --- | --- |
