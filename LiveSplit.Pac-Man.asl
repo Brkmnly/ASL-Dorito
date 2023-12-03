@@ -5,24 +5,18 @@ state("fceux", "2.6.5")
 	byte mode : 0x4378A4, 0x47;
 	byte tenk : 0x4378A4, 0x73;
 	byte mm   : 0x4378A4, 0x48;
-	byte tr   : 0x4378A4, 0x6C;
-	byte bl   : 0x4378A4, 0x6F;
 }
 state("fceux64", "2.6.5")
 {
 	byte mode : 0x4D5150, 0x47;
 	byte tenk : 0x4D5150, 0x73;
 	byte mm   : 0x4D5150, 0x48;
-	byte tr   : 0x4D5150, 0x6C;
-	byte bl   : 0x4D5150, 0x6F;
 }
 state("qfceux", "2.6.5")
 {
 	byte mode : 0x32E718, 0x47;
 	byte tenk : 0x32E718, 0x73;
 	byte mm   : 0x32E718, 0x48;
-	byte tr   : 0x32E718, 0x6C;
-	byte bl   : 0x32E718, 0x6F;
 }
 
 init
@@ -184,23 +178,8 @@ split
 	{
 		return true;
 	}
-	if (old.tr != 7 && current.tr == 7)
-	{
-		return true;
-	}
-	if (old.bl != 7 && current.bl == 7)
-	{
-		return true;
-	}
 }
 
-reset
-{
-	if (current.mm == 255 && old.mm == 0)
-	{
-		return true;
-	}
-}
 update
 {
 	vars.bruh = 0;
