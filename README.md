@@ -1,5 +1,7 @@
 # LiveSplit.Pac-Man.asl
 
+Autosplitter for the 10,000pts category of Pac-Man for NES
+
 | Inq | Value |
 | --- | --- |
 | # of splits in layout | 1 |
@@ -15,6 +17,14 @@
 | qFCEUX | 2.6.5 |
 
 # LiveSplit.Popeye.asl
+
+Autosplitter for multiple categories of Popeye for Famicom/NES
+
+| Inq | Value |
+| --- | --- |
+| # of splits in layout | 3 or 6 |
+| Start Frame | The frame Popeye is controllable |
+| End Frame | The frame the last letter of the last stage is grabbed |
 
 | Emu | Compatible Versions |
 | --- | --- |
