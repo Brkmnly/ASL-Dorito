@@ -1,4 +1,4 @@
-// Popeye Eigo NES autosplitter coded by @brkmnly, quality control by @DoritoBreath
+// Popeye Eigo NES autosplitter coded by SRC@brkmnly, quality control by SRC@DoritoBreath
 
 // Not compatible with NEStopia
 
